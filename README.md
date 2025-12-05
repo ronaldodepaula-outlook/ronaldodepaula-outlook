@@ -25,7 +25,9 @@ Com experiência em frontend, backend e mobile, crio aplicações robustas, vers
 
 ### **Banco de Dados / Infra**
 - MongoDB  
-- MySQL  
+- MySQL
+- Oracle
+- Sql Server  
 
 ### **Ferramentas & Outros**
 - Git  
